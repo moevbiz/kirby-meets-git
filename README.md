@@ -1,6 +1,6 @@
 bash version of https://getkirby.com/docs/cookbook/setup/git
 
-How to use
+### How to use
 
 1. copy `kirby.sh` to the desired location of your [kirby](https://getkirby.com/) installation
 2. use the command line to navigate to said destination
