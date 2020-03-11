@@ -2,7 +2,7 @@ bash version of https://getkirby.com/docs/cookbook/setup/git
 
 ### How to use
 
-1. copy `kirby.sh` to the desired location of your [kirby](https://getkirby.com/) installation
+1. copy `kirby.sh` to the desired location for your [kirby](https://getkirby.com/) installation
 2. use the command line to navigate to said destination
 3. execute `sh kirby.sh your-folder-name`
 4. the script will clone the [kirby plainkit](https://github.com/getkirby/plainkit) and install kirby as a git submodule
