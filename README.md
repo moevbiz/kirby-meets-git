@@ -10,6 +10,8 @@ bash version of https://getkirby.com/docs/cookbook/setup/git
 
 👍
 
+especially useful if all your web projects are stored in a single location, i.e when using [laravel valet](https://laravel.com/docs/valet) for development
+
 (requires [git](https://git-scm.com/))
 
 (please note that kirby is **not freeware** and requires a valid license to be used on a production server)
